@@ -51,6 +51,7 @@
 <img style="margin: 10px" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="MySQL" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB" height="30" />
 <img style="margin: 10px" src="https://chathamlibrary.librarycalendar.com/sites/default/files/2022-11/java-logo.png" alt="Java" height="60" />
+<img style="margin: 10px" src="https://www.freecodecamp.org/news/content/images/2020/10/gcp.png" alt="GCP" height="60" />
 </div>
 
 </td></tr></table>  
