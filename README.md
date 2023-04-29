@@ -7,9 +7,9 @@
 
 ### <div align="center">My Brief Introduction</div><br />
 
-- 🎓 I'm a graduate student at UC Berkeley and expected to graduate at Dec 2023.
+- 🎓 I'm a student at UC Berkeley and expected to graduate at Dec 2023.
 
-- 🌱 I’m currently learning Nodejs,Express.js 
+- 🌱 I’m currently learning Nodejs and Express.js 
 
 - 💼 I'm looking for an Software Development Engineer starting from 2024 Spring 
 
