@@ -15,7 +15,7 @@
 
 - 💻 All of my projects are available at [https://github.com/Lingxiao1123?tab=repositories](https://github.com/Lingxiao1123?tab=repositories)  
 
-- ✉️ How to reach me [lingxiaopan991123@gmail.com](lingxiaopan991123@gmail.com)  
+- ✉️ How to reach me [lingxiaopan991123@gmail.com](lingxiaopan991123@gmail.com)
 
 ### <div align="center">Technical Stack</div><br />
 
