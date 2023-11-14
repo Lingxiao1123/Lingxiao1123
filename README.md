@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitlight.gif#gh-light-mode-only" align="center" height="300" width = "600" /> 
+<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitlight.gif#gh-light-mode-only" align="center" height="300" width = "600" />  
 </div>  
   
 
