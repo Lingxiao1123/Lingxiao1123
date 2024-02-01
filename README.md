@@ -7,11 +7,11 @@
 
 ### <div align="center">My Brief Introduction</div><br />
 
-- 🎓 I'm a student at UC Berkeley and expected to graduate at Dec 2023.
+- 🎓 I'm a new graduated student from UC Berkeley.
 
-- 🌱 I’m currently learning Nodejs and Express.js 
+- 🌱 I’m currently learning Nextjs and Typescript. 
 
-- 💼 I'm looking for an Software Development Engineer starting from 2024 Spring 
+- 💼 I'm looking for an Entry Level Software Development Engineer position either Frontend or Backend 
 
 - 💻 All of my projects are available at [https://github.com/Lingxiao1123?tab=repositories](https://github.com/Lingxiao1123?tab=repositories)  
 
