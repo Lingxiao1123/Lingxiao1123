@@ -7,11 +7,9 @@
 
 ### <div align="center">My Brief Introduction</div><br />
 
-- 🎓 I'm a new graduated student from UC Berkeley.
+- 🎓 I'm a graduated student from UC Berkeley.
 
-- 🌱 I’m currently learning Nextjs and Typescript. 
-
-- 💼 I'm looking for an Entry Level Software Development Engineer position either Frontend or Backend 
+- 💼 I'm an Software Development Engineer from Perplexity.
 
 - 💻 All of my projects are available at [https://github.com/Lingxiao1123?tab=repositories](https://github.com/Lingxiao1123?tab=repositories)  
 
